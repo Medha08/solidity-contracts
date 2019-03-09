@@ -7,6 +7,7 @@ The collection consists of following contracts-:
   2. Auction Contract Sample
   3. FundRaise Contract Sample
   4. ERC20 Token
-  5. Suggest me or do a pull request to contribute :blush:
+  5. ToDo Dapp Sample Sol File
+  6. Suggest me or do a pull request to contribute :blush:
   
   Don't forget to star this Repo :star:
