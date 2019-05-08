@@ -11,4 +11,4 @@ The collection consists of following contracts-:
   6. Certify Promises Contract
   7. Suggest me or do a pull request to contribute :blush:
   
-  Don't forget to star this Repo :star:
+  Don't forget to star this Repo  :star:
